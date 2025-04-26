@@ -3,7 +3,7 @@ title: "Computational Methods"
 collection: teaching
 type: "Teaching Assistant"
 # permalink: /teaching/2023-fall-computational-methods
-published: false
+permalink: null
 venue: "Fudan University"
 date: 2023-09-01
 time: "2023 Fall"
