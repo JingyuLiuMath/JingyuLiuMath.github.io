@@ -9,12 +9,3 @@ location: "Shanghai, China"
 ---
 
 Excellent TA Award
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
