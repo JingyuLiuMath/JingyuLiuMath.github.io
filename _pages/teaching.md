@@ -7,14 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-## Education
+## Teaching Assistant
 
-* Ph.D. in Computational Mathematics, Fudan University, 2022-now
-  * Advisor: [Yingzhou Li](https://yingzhouli.com/) and Weiguo Gao
-* B.S. in Mathematics, Fudan University, 2018-2022
-  * Advisor: [Yingzhou Li](https://yingzhouli.com/) and Weiguo Gao
-
-## Skills
-
-* Languages: Chinese (native), English (fluent)
-* Programming: C/C++, Python, MATLAB
+* Newly-Developed Algorithms by Prof. [Yingzhou Li](https://yingzhouli.com/), Fudan University, 2024 Fall
+* Numerical Linear Algebra and Optimization by Prof. [Yingzhou Li](https://yingzhouli.com/), Fudan University, 2024 Spring
+* Computational Methods by Prof. Weiguo Gao, Fudan University, 2023 Fall
+* Linear Algebra by Prof. Shuqin Zhang, Fudan University, 2023 Spring
