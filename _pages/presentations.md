@@ -14,3 +14,5 @@ author_profile: true
 ## Poster Presentations
 
 ## Others
+
+- Jingyu Liu and Yujie Chen, [Applied Math Ph.D. Seminar at Fudan University, 2024 Fall](https://amphds.yingzhouli.com/2024Fall.html), Shanghai China (2024).
