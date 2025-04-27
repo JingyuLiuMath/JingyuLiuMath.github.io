@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jingyu Liu's Homepage!"
+title: "Jingyu Liu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,4 @@ I am a third year Ph.D. student in the School of Mathematical Sciences, Fudan Un
 
 My research interest includes fast algorithms in scientific computing and randomized numerical linear algebra.
 
-Besides, I love running. My half marathon PB is 1:41:18 at the Shaoxing Marathon in 2024 and my marathon PB is 4:19:28 at the Nantong Marathon in 2025.
+Besides, I'm a running enthusiast. My half marathon PB is 1:41:18 at the Shaoxing Marathon in 2024 and my marathon PB is 4:19:28 at the Nantong Marathon in 2025.
