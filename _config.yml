@@ -200,12 +200,6 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -217,14 +211,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
 
 
 # Sass/SCSS
