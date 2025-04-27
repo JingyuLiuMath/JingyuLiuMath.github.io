@@ -2,8 +2,9 @@ name: Scrape Talk Locations
 
 on:
   push:
-    paths:
-      - 'talks/**'
+    branches:
+      - master
+  
 
 jobs:
   build:
@@ -11,11 +12,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.9'  # Specify the Python version you need
 
     - name: Commit changes
       run: |
