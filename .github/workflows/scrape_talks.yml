@@ -17,8 +17,6 @@ jobs:
       with:
         python-version: '3.9'  # Specify the Python version you need
 
-    - name: Install dependencies
-
     - name: Commit changes
       run: |
         git config user.name "github-actions[bot]"
