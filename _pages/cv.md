@@ -10,9 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
+
 ======
+
 * Ph.D. in Computational Mathematics, Fudan University, 2022-now
+  * Advisor: [Yingzhou Li](https://yingzhouli.com/) and Weiguo Gao
 * B.S. in Mathematics, Fudan University, 2018-2022
+  * Advisor: [Yingzhou Li](https://yingzhouli.com/) and Weiguo Gao
 
 <!-- Work experience
 ======
@@ -30,11 +34,6 @@ Education
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
-  
-Skills
-======
-* Languages: Chinese (native), English (fluent)
-* Programming: C/C++, Python, MATLAB
 
 <!-- Publications
 ======
@@ -57,3 +56,10 @@ Teaching
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+Skills
+
+======
+
+* Languages: Chinese (native), English (fluent)
+* Programming: C/C++, Python, MATLAB
