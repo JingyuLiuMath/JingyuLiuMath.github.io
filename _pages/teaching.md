@@ -9,7 +9,8 @@ author_profile: true
 
 ## Teaching Assistant
 
-* Newly-Developed Algorithms by Prof. [Yingzhou Li](https://yingzhouli.com/), Fudan University, 2024 Fall
-* Numerical Linear Algebra and Optimization by Prof. [Yingzhou Li](https://yingzhouli.com/), Fudan University, 2024 Spring
-* Computational Methods by Prof. Weiguo Gao, Fudan University, 2023 Fall
-* Linear Algebra by Prof. Shuqin Zhang, Fudan University, 2023 Spring
+* Newly-Developed Algorithms (AIS631004.01) by Prof. [Yingzhou Li](https://yingzhouli.com/), Fudan University, 2024 Fall
+  * Excellent TA Award
+* Numerical Linear Algebra and Optimization (MATH130165h.01) by Prof. [Yingzhou Li](https://yingzhouli.com/), Fudan University, 2024 Spring
+* Computational Methods (MATH130036.01) by Prof. Weiguo Gao, Fudan University, 2023 Fall
+* Linear Algebra (MATH120044.01) by Prof. Shuqin Zhang, Fudan University, 2023 Spring
