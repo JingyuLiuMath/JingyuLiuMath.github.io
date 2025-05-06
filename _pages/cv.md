@@ -16,5 +16,5 @@ author_profile: true
 
 ## Skills
 
-* Languages: Chinese (native), English (fluent)
+* Languages: Chinese (native), English
 * Programming: C/C++, Python, MATLAB
