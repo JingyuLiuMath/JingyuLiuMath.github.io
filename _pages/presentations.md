@@ -9,6 +9,8 @@ author_profile: true
 
 ## Upcoming Presentations
 
+- Jingyu Liu, A Fast Direct Solver for Nonuniform Discrete Fourier Transform of Type 3, Applied Math Ph.D. Seminar, Shanghai China (May 2025).
+  
 ## Oral Presentations
 
 ## Poster Presentations
