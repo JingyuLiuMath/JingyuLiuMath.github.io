@@ -14,6 +14,10 @@ author_profile: true
 * B.S. in Mathematics, Fudan University, 2018-2022
   * Advisor: [Yingzhou Li](https://yingzhouli.com/) and Weiguo Gao
 
+## Selected Awards
+
+* Outstanding graduate, Fudan University, 2022
+
 ## Skills
 
 * Languages: Chinese (native), English
