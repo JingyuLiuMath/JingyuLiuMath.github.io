@@ -14,7 +14,7 @@ author_profile: true
 
 ## Oral Presentations
 
-- Jingyu Liu, A Fast Superfast Solver for Nonuniform Discrete Fourier Transform of Type 3, Applied Math Ph.D. Seminar, Shanghai China (May 2025).
+- Jingyu Liu, A Fast Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type 3, Applied Math Ph.D. Seminar, Shanghai China (May 2025).
 
 ## Poster Presentations
 
