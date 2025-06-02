@@ -14,9 +14,11 @@ author_profile: true
 * B.S. in Mathematics, Fudan University, 2018-2022
   * Advisor: [Yingzhou Li](https://yingzhouli.com/) and Weiguo Gao
 
-## Selected Awards
+## Selected Honors and Awards
 
+* The Qushiduxing Scholarship (top 10%), Fudan University, 2023
 * Outstanding graduate, Fudan University, 2022
+* 1st Award Scholarship (top 10%), Fudan University, 2021
 
 ## Skills
 
