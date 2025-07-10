@@ -15,5 +15,5 @@ I'm also an enthusiast of running. My half marathon PB is 1:41:18 at the Shaoxin
 
 * Hierarchical matrix and its applications;
 * Fast algorithms for elliptic PDEs;
-* Non-uniform discrete Fourier transform;
+* Nonuniform Fourier transform;
 * Randomized numerical linear algebra.
