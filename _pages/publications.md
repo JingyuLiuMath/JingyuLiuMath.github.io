@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-- Yingzhou Li and Jingyu Liu, Hierarchical Tucker low-rank matrices: Construction and matrix-vector multiplication. [arXiv](https://arxiv.org/abs/2508.05958) [PDF](https://jingyuliumath.github.io/files/htlr.pdf.)
+- Yingzhou Li and Jingyu Liu, Hierarchical Tucker low-rank matrices: Construction and matrix-vector multiplication. [[arXiv]](https://arxiv.org/abs/2508.05958) [[PDF]](https://jingyuliumath.github.io/files/htlr.pdf)
 
 ## Journal Papers
 
