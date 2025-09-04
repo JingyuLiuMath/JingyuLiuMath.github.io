@@ -9,7 +9,7 @@ author_profile: true
 
 ## Teaching Assistant
 
-* Numerical Algorithms with Case Studies I(H) (MATH20007h.01) by Prof. Meiyue Shao, Fudan University, 2025 Fall
+* Numerical Algorithms with Case Studies I (H) (MATH20007h.01) by Prof. Meiyue Shao, Fudan University, 2025 Fall
 * Newly-Developed Algorithms (AIS631004.01) by Prof. [Yingzhou Li](https://yingzhouli.com/), Fudan University, 2024 Fall
   * Excellent TA Award
 * Numerical Linear Algebra and Optimization (H) (MATH130165h.01) by Prof. [Yingzhou Li](https://yingzhouli.com/), Fudan University, 2024 Spring
