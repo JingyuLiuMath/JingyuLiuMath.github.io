@@ -9,14 +9,20 @@ author_profile: true
 
 ## Education
 
-* Ph.D. in Computational Mathematics, Fudan University, 2022-now
-  * Advisor: [Yingzhou Li](https://yingzhouli.com/) and Weiguo Gao
-* B.S. in Mathematics, Fudan University, 2018-2022
-  * Advisor: [Yingzhou Li](https://yingzhouli.com/) and Weiguo Gao
+* Visiting Student, The University of Manchester, Manchester, United Kingdom
+  <!-- * January 2026 - present -->
+  * Host: Prof. [Stefan Güttel](https://guettel.com/)
+* Ph.D. in Computational Mathematics, Fudan University, Shanghai, China
+  * September 2022 – present
+  * Advisor: Prof. [Yingzhou Li](https://yingzhouli.com/) and Prof. Weiguo Gao
+* B.S. in Mathematics, Fudan University, Shanghai, China
+  * September 2018 – June 2022
+  * Advisor: Prof. [Yingzhou Li](https://yingzhouli.com/) and Prof. Weiguo Gao
 
 ## Selected Honors and Awards
 
-* The Qushiduxing Scholarship (top 10%), Fudan University, 2023
+* 1st Award Scholarship (top 10%), Fudan University, 2025
+* 1st Award Scholarship (top 10%), Fudan University, 2023
 * Outstanding graduate, Fudan University, 2022
 * 1st Award Scholarship (top 10%), Fudan University, 2021
 
