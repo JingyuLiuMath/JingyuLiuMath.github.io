@@ -10,6 +10,7 @@ author_profile: true
 ## Upcoming Presentations
 
 - Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, SIAM Conference on Parallel Processing for Scientific Computing (PP26), Zuse Institute Berlin and Free University of Berlin, Berlin Germany, March 2026.
+- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, 27th Conference of the International Linear Algebra Society (ILAS 2026), Virginia Tech, Blacksburg USA, May 2026.
 
 ## Oral Presentations
 
