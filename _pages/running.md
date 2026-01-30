@@ -11,6 +11,8 @@ Here is a list of marathon races I have participated in and will participate in.
 
 ## Upcoming
 
+- Manchester Half, Manchester UK, October 2026.
+
 ## Finished
 
 - Nantong Marathon, Nantong China, March 2025.
