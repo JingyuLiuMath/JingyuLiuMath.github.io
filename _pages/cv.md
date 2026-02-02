@@ -9,7 +9,7 @@ author_profile: true
 
 ## Education
 
-* Visiting Student, The University of Manchester, Manchester, United Kingdom
+* Visiting Research Student, The University of Manchester, Manchester, UK
   * January 2026 - present
   * Host: Prof. [Stefan Güttel](https://guettel.com/)
 * Ph.D. in Computational Mathematics, Fudan University, Shanghai, China
