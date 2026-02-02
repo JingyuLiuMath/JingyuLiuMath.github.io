@@ -9,13 +9,13 @@ author_profile: true
 
 ## Education
 
-* Visiting Research Student, The University of Manchester, Manchester, UK
+* Visiting Research Student, Department of Mathematics, The University of Manchester, Manchester, UK
   * January 2026 - present
   * Host: Prof. [Stefan Güttel](https://guettel.com/)
-* Ph.D. in Computational Mathematics, Fudan University, Shanghai, China
+* Ph.D. in Computational Mathematics, School of Mathematical Sciences, Fudan University, Shanghai, China
   * September 2022 – present
   * Advisor: Prof. [Yingzhou Li](https://yingzhouli.com/) and Prof. Weiguo Gao
-* B.S. in Mathematics, Fudan University, Shanghai, China
+* B.S. in Mathematics, School of Mathematical Sciences, Fudan University, Shanghai, China
   * September 2018 – June 2022
   * Advisor: Prof. [Yingzhou Li](https://yingzhouli.com/) and Prof. Weiguo Gao
 
