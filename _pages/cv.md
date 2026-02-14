@@ -25,7 +25,7 @@ author_profile: true
 * Scholarship for Visiting PhD Student, China Scholarship Council, 2025
 * 1st Award Scholarship (top 10%), Fudan University, 2025
 * 1st Award Scholarship (top 10%), Fudan University, 2023
-* Outstanding graduate, Fudan University, 2022
+* Outstanding Graduate, Fudan University, 2022
 * 1st Award Scholarship (top 10%), Fudan University, 2021
 
 ## Skills
