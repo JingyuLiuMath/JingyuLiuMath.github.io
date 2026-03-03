@@ -11,6 +11,8 @@ I'm a fourth year Ph.D. student in the School of Mathematical Sciences, Fudan Un
 
 I'm also an enthusiast of running. My half marathon PB is 1:41:18 at the Shaoxing Marathon in 2024 and my marathon PB is 4:19:28 at the Nantong Marathon in 2025.
 
+Photo: At Berlin in 2026. Photographer: [Yuejia Zhang](https://ninotreve.github.io/)
+
 ## Research Interest
 
 * Hierarchical matrix and its applications;
