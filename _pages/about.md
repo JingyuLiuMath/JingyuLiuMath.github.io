@@ -20,7 +20,7 @@ I'm also an enthusiast of running. My half marathon PB is 1:41:18 at the Shaoxin
   * Elliptic PDEs and their corresponding integral equations.
   * Nonuniform Fourier transform.
   * Fourier integral operator.
-* Numerical linear algebra (NLA), including:
+* Numerical linear algebra, including:
   * Randomized numerical linear algebra.
   * Krylov subspace methods.
   * Matrix functions.
