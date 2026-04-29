@@ -9,7 +9,10 @@ author_profile: true
 
 ## Upcoming Presentations
 
+- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, MATHS-NASC Seminar, The University of Manchester, Manchester UK, May 2026.
 - Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, The 27th Conference of the International Linear Algebra Society (ILAS 2026), Virginia Tech, Blacksburg USA, May 2026.
+
+MATHS-NASC
 
 ## Oral Presentations
 

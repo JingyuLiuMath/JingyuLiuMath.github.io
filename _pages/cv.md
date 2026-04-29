@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Here is an up-to-date version: [CV](https://www.overleaf.com/read/qphkmqpvjnqs#0d0522).
+
 ## Education
 
 * Visiting Research Student, Department of Mathematics, The University of Manchester, Manchester, UK
