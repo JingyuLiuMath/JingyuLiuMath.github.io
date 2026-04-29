@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingyu Liu"
+title: "Jingyu Liu (刘经宇)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,12 @@ I'm also an enthusiast of running. My half marathon PB is 1:41:18 at the Shaoxin
 
 ## Research Interest
 
-* Hierarchical matrix and its applications;
-* Fast algorithms for elliptic PDEs;
-* Nonuniform Fourier transform;
-* Randomized numerical linear algebra.
+* Fast algorithms in scientific computing, including:
+  * Hierarchical matrices and their applications.
+  * Elliptic PDEs and their corresponding integral equations.
+  * Nonuniform Fourier transform.
+  * Fourier integral operator.
+* Numerical linear algebra (NLA), including:
+  * Randomized numerical linear algebra.
+  * Krylov subspace methods.
+  * Matrix functions.
