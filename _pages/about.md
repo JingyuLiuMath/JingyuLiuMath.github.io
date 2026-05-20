@@ -16,8 +16,8 @@ I'm also an enthusiast of running. My half marathon PB is 1:41:18 at the Shaoxin
 ## Research Interest
 
 * Fast algorithms in scientific computing, including:
-  * Hierarchical matrices and their applications.
-  * Elliptic PDEs and their corresponding integral equations.
+  * Hierarchical matrix and its applications.
+  * Elliptic PDE and IE.
   * Nonuniform Fourier transform.
   * Fourier integral operator.
 * Numerical linear algebra, including:
