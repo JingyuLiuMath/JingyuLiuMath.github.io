@@ -11,11 +11,13 @@ Here is a list of marathon races I have participated in and will participate in.
 
 ## Upcoming
 
-- AJ Bell Great Manchester Run, Manchester UK, May 2026.
 - Manchester Half, Manchester UK, October 2026.
 
 ## Finished
 
+- AJ Bell Great Manchester Run, Manchester UK, May 2026.
+  - Half Marathon
+  - 01:42:07
 - Nantong Marathon, Nantong China, March 2025.
   - Marathon
   - 04:19:28 **(Personal Best)**
