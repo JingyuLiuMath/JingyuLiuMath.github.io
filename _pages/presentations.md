@@ -9,7 +9,7 @@ author_profile: true
 
 ## Upcoming Presentations
 
-- Jingyu Liu, A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, SIAM UKIE Annual Meeting 2026, University of Leicester, Leicester UK, June 2026.
+- Jingyu Liu, A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, Annual Meeting 2026 of the United Kingdom and Republic of Ireland Section of SIAM (SIAM UKIE Annual Meeting 2026), University of Leicester, Leicester UK, June 2026.
 
 ## Oral Presentations
 
