@@ -9,22 +9,24 @@ author_profile: true
 
 ## Upcoming Presentations
 
-- Jingyu Liu, A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, Annual Meeting 2026 of the United Kingdom and Republic of Ireland Section of SIAM (SIAM UKIE Annual Meeting 2026), University of Leicester, Leicester UK, June 2026.
+- A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, Annual Meeting 2026 of the United Kingdom and Republic of Ireland Section of SIAM (SIAM UKIE Annual Meeting 2026), University of Leicester, Leicester UK, June 2026.
+- Approximate Inversion of Discrete Fourier Integral Operators via Hierarchically Semiseparable Matrix, Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra, Otto von Guericke University, Magdeburg Germany, September 2026.
+- A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, GAMM Workshop on Applied and Numerical Linear Algebra 2026, Otto von Guericke University, Magdeburg Germany, September 2026.
 
 ## Oral Presentations
 
-- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, The 27th Conference of the International Linear Algebra Society (ILAS 2026), Virginia Tech, Blacksburg USA, May 2026.
-- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, MATHS-NASC Seminar, The University of Manchester, Manchester UK, May 2026.
-- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Applied Math Ph.D. Seminar at Tongji University, Tongji University, Shanghai China, December 2025.
-- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, The Third Academic Communication Conference for PhD Students on Frontiers of Mathematics, Peking University, Beijing China, November 2025.
-- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, The Third HKSIAM Biennial Conference (HKSIAM 2025), The Chinese University of Hong Kong, Hongkong China, July 2025.
-- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Joint FDU-NUS-ZJU PhD Forum in Mathematics, National University of Singapore, Singapore Singapore, June 2025.
-- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Applied Math Ph.D. Seminar at Fudan University, Fudan University, Shanghai China, May 2025.
+- A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, The 27th Conference of the International Linear Algebra Society (ILAS 2026), Virginia Tech, Blacksburg USA, May 2026.
+- A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, MATHS-NASC Seminar, The University of Manchester, Manchester UK, May 2026.
+- A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Applied Math Ph.D. Seminar at Tongji University, Tongji University, Shanghai China, December 2025.
+- A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, The Third Academic Communication Conference for PhD Students on Frontiers of Mathematics, Peking University, Beijing China, November 2025.
+- A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, The Third HKSIAM Biennial Conference (HKSIAM 2025), The Chinese University of Hong Kong, Hongkong China, July 2025.
+- A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Joint FDU-NUS-ZJU PhD Forum in Mathematics, National University of Singapore, Singapore Singapore, June 2025.
+- A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Applied Math Ph.D. Seminar at Fudan University, Fudan University, Shanghai China, May 2025.
 
 ## Poster Presentations
 
-- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, SIAM Conference on Parallel Processing for Scientific Computing (PP26), Zuse Institute Berlin and Free University of Berlin, Berlin Germany, March 2026.
-- Jingyu Liu, A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Fudan Summer School on Scientific Computing, Fudan University, Shanghai China, July 2025.
+- A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, SIAM Conference on Parallel Processing for Scientific Computing (PP26), Zuse Institute Berlin and Free University of Berlin, Berlin Germany, March 2026.
+- A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Fudan Summer School on Scientific Computing, Fudan University, Shanghai China, July 2025.
 
 ## Others
 
