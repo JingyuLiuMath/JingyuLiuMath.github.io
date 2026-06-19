@@ -23,6 +23,7 @@ Here is an up-to-date version: [CV](https://www.overleaf.com/read/qphkmqpvjnqs#0
 
 ## Selected Honors and Awards
 
+* Student Travel Award, Annual Meeting 2026 of the United Kingdom and Republic of Ireland Section of SIAM (SIAM UKIE Annual Meeting 2026), 2026
 * Early Career Support Award, the 27th Conference of the International Linear Algebra Society (ILAS 2026), 2026
 * Scholarship for Visiting PhD Student, China Scholarship Council, 2025
 * 1st Award Scholarship (top 10%), Fudan University, 2025

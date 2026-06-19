@@ -30,4 +30,4 @@ author_profile: true
 
 ## Others
 
-- Jingyu Liu and Yujie Chen, Organizer, [Applied Math Ph.D. Seminar at Fudan University](https://amphds.yingzhouli.com/2024Fall.html), Fudan University, Shanghai China (Fall 2024).
+- With Yujie Chen, Organizer, [Applied Math Ph.D. Seminar at Fudan University](https://amphds.yingzhouli.com/2024Fall.html), Fudan University, Shanghai China (Fall 2024).
