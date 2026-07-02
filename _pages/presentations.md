@@ -29,5 +29,3 @@ author_profile: true
 - A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Fudan Summer School on Scientific Computing, Fudan University, Shanghai China, July 2025.
 
 ## Others
-
-- With Yujie Chen, Organizer, [Applied Math Ph.D. Seminar at Fudan University](https://amphds.yingzhouli.com/2024Fall.html), Fudan University, Shanghai China (Fall 2024).

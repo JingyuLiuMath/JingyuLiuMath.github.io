@@ -32,6 +32,10 @@ Here is an up-to-date version: [CV](https://www.overleaf.com/read/qphkmqpvjnqs#0
 * Outstanding Graduate, Fudan University, 2022
 * 1st Award Scholarship (top 10%), Fudan University, 2021
 
+## Academic Service
+
+* Organizer (with Yujie Chen), [Applied Math Ph.D. Seminar](https://amphds.yingzhouli.com/2024Fall.html), Fudan University, 2024 Fall.
+
 ## Skills
 
 * Languages: Chinese (native), English
