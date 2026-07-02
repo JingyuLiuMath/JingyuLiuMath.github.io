@@ -9,7 +9,6 @@ author_profile: true
 
 ## Upcoming Presentations
 
-- A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, Annual Meeting 2026 of the United Kingdom and Republic of Ireland Section of SIAM (SIAM UKIE Annual Meeting 2026), University of Leicester, Leicester UK, June 2026.
 <!-- - Approximate Inversion of Discrete Fourier Integral Operators via Hierarchically Semiseparable Matrix, Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra, Otto von Guericke University, Magdeburg Germany, September 2026. -->
 - A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, GAMM Workshop on Applied and Numerical Linear Algebra 2026, Otto von Guericke University, Magdeburg Germany, September 2026.
 
@@ -25,6 +24,7 @@ author_profile: true
 
 ## Poster Presentations
 
+- A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, Annual Meeting 2026 of the United Kingdom and Republic of Ireland Section of SIAM (SIAM UKIE Annual Meeting 2026), University of Leicester, Leicester UK, June 2026.
 - A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, SIAM Conference on Parallel Processing for Scientific Computing (PP26), Zuse Institute Berlin and Free University of Berlin, Berlin Germany, March 2026.
 - A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Fudan Summer School on Scientific Computing, Fudan University, Shanghai China, July 2025.
 

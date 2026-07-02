@@ -9,6 +9,7 @@ author_profile: true
 
 ## Preprints
 
+- Yingzhou Li and Jingyu Liu, A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix. [[arXiv]](https://arxiv.org/abs/2607.00928) [[PDF]](https://jingyuliumath.github.io/files/inudft2_2d.pdf)
 - Yingzhou Li and Jingyu Liu, A Superfast Direct Solver for Type-III Inverse Nonuniform Discrete Fourier Transform. [[arXiv]](https://arxiv.org/abs/2512.03733) [[PDF]](https://jingyuliumath.github.io/files/inudft3.pdf)
 - Yingzhou Li and Jingyu Liu, Hierarchical Tucker low-rank matrices: Construction and matrix-vector multiplication. [[arXiv]](https://arxiv.org/abs/2508.05958) [[PDF]](https://jingyuliumath.github.io/files/htlr.pdf)
 
