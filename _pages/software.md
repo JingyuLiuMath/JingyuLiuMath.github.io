@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-## [NUFFT2D](https://github.com/JingyuLiuMath/NUFFT2D)
+<!-- ## [funm_quad](https://github.com/JingyuLiuMath/funm_quad)
 
-NUFFT2D is a fast direct inversion algorithm for nonuniform discrete Fourier transform in 2D. This solver is based on the the hierarchically semiseparable matrix. This is a joint work with [Yingzhou Li](https://yingzhouli.com/).
+funm_quad is a sketch-and-restart framework for computing the action of a matrix function on a vector, $f(A)b$, where $A$ is large, sparse, and non-Hermitian. This is a joint work with Prof. [Stefan Güttel](https://guettel.com/) and Dr. [Lauri Nyman](https://sites.google.com/view/laurinyman/home). -->
+
+## [InvNUDFT](https://github.com/JingyuLiuMath/InvNUDFT)
+
+MATLAB research code for the fast direct inversion of nonuniform discrete Fourier transforms (NUDFTs). This is a joint work with Prof.[Yingzhou Li](https://yingzhouli.com/).

@@ -29,6 +29,7 @@ Here is an up-to-date version: [CV](https://www.overleaf.com/read/qphkmqpvjnqs#0
 * 1st Award Scholarship (top 10%), Fudan University, 2025
 * Graduate International Academic Conference Funding, Fudan University, 2025
 * 1st Award Scholarship (top 10%), Fudan University, 2023
+* Fudan University Distinguished PhD Program, Fudan University, 2022
 * Outstanding Graduate, Fudan University, 2022
 * 1st Award Scholarship (top 10%), Fudan University, 2021
 
