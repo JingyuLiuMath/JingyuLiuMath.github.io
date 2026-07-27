@@ -9,7 +9,7 @@ author_profile: true
 
 ## Upcoming Presentations
 
-- Approximate Inversion of Discrete Fourier Integral Operators via Hierarchically Semiseparable Matrix, Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra, Otto von Guericke University, Magdeburg Germany, September 2026.
+- Approximate Inversion of Discrete Fourier Integral Operators via Hierarchically Semiseparable Matrix, Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra, Otto von Guericke University, Magdeburg Germany, August 2026.
 - A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, GAMM Workshop on Applied and Numerical Linear Algebra 2026, Otto von Guericke University, Magdeburg Germany, September 2026.
 - Sketch-and-Restart: Randomized Sketching in Quadrature-Based Restarting for Matrix Functions, Manchester Mathematics Research Students' Conference (MRSC) 2026, The University of Manchester, Manchester UK, September 2026.
 
