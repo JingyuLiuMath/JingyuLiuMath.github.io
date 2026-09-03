@@ -9,13 +9,13 @@ author_profile: true
 
 ## Upcoming Presentations
 
-- Approximate Inversion of Discrete Fourier Integral Operators via Hierarchically Semiseparable Matrix, Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra, Otto von Guericke University, Magdeburg Germany, August 2026.
-- A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, GAMM Workshop on Applied and Numerical Linear Algebra 2026, Otto von Guericke University, Magdeburg Germany, September 2026.
 - Sketch-and-Restart: Randomized Sketching in Quadrature-Based Restarting for Matrix Functions, Manchester Mathematics Research Students' Conference (MRSC) 2026, The University of Manchester, Manchester UK, September 2026.
 - Sketch-and-Restart: Randomized Sketching in Quadrature-Based Restarting for Matrix Functions, Scientific Seminar at the University of Leeds, University of Leeds, Leeds UK, September 2026.
 
 ## Oral Presentations
 
+- A Superfast Direct Solver for 2D Type-II Inverse Nonuniform Discrete Fourier Transform Based on Hierarchically Semiseparable Matrix, GAMM Workshop on Applied and Numerical Linear Algebra 2026, Otto von Guericke University, Magdeburg Germany, September 2026.
+- Approximate Inversion of Discrete Fourier Integral Operators via Hierarchically Semiseparable Matrix, Workshop on Approximate Computing in Numerical (Multi-)Linear Algebra, Otto von Guericke University, Magdeburg Germany, August 2026.
 - A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, The 27th Conference of the International Linear Algebra Society (ILAS 2026), Virginia Tech, Blacksburg USA, May 2026.
 - A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Numerical Analysis and Scientific Computing Seminar (MATHS-NASC), The University of Manchester, Manchester UK, May 2026.
 - A Superfast Direct Solver for Nonuniform Discrete Fourier Transform of Type-III, Applied Math Ph.D. Seminar at Tongji University, Tongji University, Shanghai China, December 2025.
