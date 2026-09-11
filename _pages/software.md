@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## [FIO](https://github.com/JingyuLiuMath/FIO/)
+
+MATLAB research code for the fast direct inversion of Fourier integral operators (FIOs). This is a joint work with Prof. [Yingzhou Li](https://yingzhouli.com/).
+
 ## [funm_quad](https://github.com/JingyuLiuMath/funm_quad)
 
 A sketch-and-restart framework for computing the action of a matrix function on a vector, $f(A)b$, where $A$ is large, sparse, and non-Hermitian. This is a joint work with Prof. [Stefan Güttel](https://guettel.com/) and Dr. [Lauri Nyman](https://sites.google.com/view/laurinyman/home).
