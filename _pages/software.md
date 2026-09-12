@@ -15,6 +15,6 @@ MATLAB research code for the fast direct inversion of Fourier integral operators
 
 A sketch-and-restart framework for computing the action of a matrix function on a vector, $f(A)b$, where $A$ is large, sparse, and non-Hermitian. This is a joint work with Prof. [Stefan Güttel](https://guettel.com/) and Dr. [Lauri Nyman](https://sites.google.com/view/laurinyman/home).
 
-## [InvNUDFT](https://github.com/JingyuLiuMath/InvNUDFT)
+## [NUFFT2D](https://github.com/JingyuLiuMath/NUFFT2D)
 
-MATLAB research code for the fast direct inversion of nonuniform discrete Fourier transforms (NUDFTs). This is a joint work with Prof. [Yingzhou Li](https://yingzhouli.com/).
+MATLAB research code for the fast direct inversion of 2D nonuniform discrete Fourier transforms (NUDFTs). This is a joint work with Prof. [Yingzhou Li](https://yingzhouli.com/).
