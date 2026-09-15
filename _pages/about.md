@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in the School of Mathematical Sciences at Fudan University, advised by Prof. [Yingzhou Li](https://yingzhouli.com/) and Prof. Weiguo Gao. I am currently a visiting student at The University of Manchester, hosted by Prof. [Stefan Güttel](https://guettel.com/). I received my bachelor’s degree from the School of Mathematical Sciences, Fudan University, in 2022.
+I am a fifth-year Ph.D. student in the School of Mathematical Sciences at Fudan University, advised by Prof. [Yingzhou Li](https://yingzhouli.com/) and Prof. Weiguo Gao. I am currently a visiting student at The University of Manchester, hosted by Prof. [Stefan Güttel](https://guettel.com/). I received my bachelor’s degree from the School of Mathematical Sciences, Fudan University, in 2022.
 
 **I expect to graduate in June 2027 and am currently looking for a postdoc position.**
 
@@ -17,12 +17,13 @@ Outside of research, I am an enthusiastic runner. My half-marathon PB is 1:41:18
 
 ## Research Interest
 
-* Fast algorithms in scientific computing, including:
-  * Hierarchical matrix and its applications.
-  * Elliptic PDE and IE.
-  * Nonuniform Fourier transform.
-  * Fourier integral operator.
-* Numerical linear algebra, including:
-  * Randomized numerical linear algebra.
-  * Krylov subspace methods.
-  * Matrix functions.
+- Fast algorithms in scientific computing, including:
+  - Hierarchical matrices and their applications
+  - Elliptic PDEs and integral equations
+  - Nonuniform Fourier transforms
+  - Fourier integral operators
+- Numerical linear algebra, including:
+  - Randomized numerical linear algebra
+  - Krylov subspace methods
+  - Matrix functions
+  - Eigenvalue problems
