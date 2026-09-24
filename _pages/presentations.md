@@ -9,7 +9,6 @@ author_profile: true
 
 ## Upcoming Presentations
 
-- Sketch-and-Restart: Randomized Sketching in Quadrature-Based Restarting for Matrix Functions, Manchester Mathematics Research Students' Conference (MRSC) 2026, The University of Manchester, Manchester UK, September 2026.
 - Sketch-and-Restart: Randomized Sketching in Quadrature-Based Restarting for Matrix Functions, Scientific Seminar at the University of Leeds, University of Leeds, Leeds UK, September 2026.
 
 ## Oral Presentations
