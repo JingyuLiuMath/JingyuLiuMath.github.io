@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## [sSI_and_sTraceMIN](https://github.com/JingyuLiuMath/sSI_and_sTraceMIN)
+
+MATLAB research code for the sketched subspace iteration (sSI) and sketched TraceMIN (sTraceMIN). This is a joint work with Dr. [Yuqi Liu](https://izayoiyuuki.github.io/).
+
 ## [FIO](https://github.com/JingyuLiuMath/FIO/)
 
 MATLAB research code for the fast direct inversion of Fourier integral operators (FIOs). This is a joint work with Prof. [Yingzhou Li](https://yingzhouli.com/).
