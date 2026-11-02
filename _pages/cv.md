@@ -21,17 +21,20 @@ Here is an up-to-date version: [CV](https://www.overleaf.com/read/qphkmqpvjnqs#0
   * September 2018 – June 2022
   * Advisors: Prof. [Yingzhou Li](https://yingzhouli.com/) and Prof. Weiguo Gao
 
+## Grants and Scholarships
+
+* Student Travel Award, Annual Meeting 2026 of the United Kingdom and Republic of Ireland Section of SIAM (SIAM UKIE Annual Meeting 2026), 2026.06
+* Early Career Support Award, the 27th Conference of the International Linear Algebra Society (ILAS 2026), 2026.05
+* Scholarship for Visiting Doctoral Research~(No.~202506100162), China Scholarship Council, 2026.01--2026.11
+* Graduate International Academic Conference Funding, Fudan University, 2025.07
+
 ## Selected Honors and Awards
 
-* Student Travel Award, Annual Meeting 2026 of the United Kingdom and Republic of Ireland Section of SIAM (SIAM UKIE Annual Meeting 2026), 2026
-* Early Career Support Award, the 27th Conference of the International Linear Algebra Society (ILAS 2026), 2026
-* Scholarship for Visiting PhD Student, China Scholarship Council, 2025
-* 1st Award Scholarship (top 10%), Fudan University, 2025
-* Graduate International Academic Conference Funding, Fudan University, 2025
-* 1st Award Scholarship (top 10%), Fudan University, 2023
+* First-Class Scholarship (top 10%), Fudan University, 2025
+* First-Class Scholarship (top 10%), Fudan University, 2023
 * Distinguished PhD Program, Fudan University, 2022
 * Outstanding Graduate, Fudan University, 2022
-* 1st Award Scholarship (top 10%), Fudan University, 2021
+* First-Class Scholarship (top 10%), Fudan University, 2021
 
 ## Academic Service
 
