@@ -11,13 +11,13 @@ Here is an up-to-date version: [CV](https://www.overleaf.com/read/qphkmqpvjnqs#0
 
 ## Education
 
-* Visiting Research Student, Department of Mathematics, The University of Manchester, Manchester, UK
-  * January 2026 - present
-  * Advisor: Prof. [Stefan Güttel](https://guettel.com/)
 * Ph.D. in Computational Mathematics, School of Mathematical Sciences, Fudan University, Shanghai, China
   * September 2022 – present
   * Advisors: Prof. [Yingzhou Li](https://yingzhouli.com/) and Prof. Weiguo Gao
-* B.S. in Mathematics, School of Mathematical Sciences, Fudan University, Shanghai, China
+* Visiting Research Student, Department of Mathematics, The University of Manchester, Manchester, UK
+  * January 2026 - present
+  * Advisor: Prof. [Stefan Güttel](https://guettel.com/)
+* B.S. in Mathematics and Applied Mathematics, School of Mathematical Sciences, Fudan University, Shanghai, China
   * September 2018 – June 2022
   * Advisors: Prof. [Yingzhou Li](https://yingzhouli.com/) and Prof. Weiguo Gao
 
