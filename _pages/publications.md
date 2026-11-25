@@ -16,7 +16,7 @@ author_profile: true
 
 ## Journal Papers
 
-- Yingzhou Li and Jingyu Liu, A Superfast Direct Solver for Type-III Inverse Nonuniform Discrete Fourier Transform, *SIAM Journal on Scientific Computing*, 48(6): A3615–A3637, 2026. [[DOI]](https://doi.org/10.1137/25M1829000) [[arXiv]](https://arxiv.org/abs/2512.03733) [[PDF]](https://jingyuliumath.github.io/files/inudft3_1d.pdf)
+- Yingzhou Li and Jingyu Liu, A superfast direct solver for type-III inverse nonuniform discrete Fourier transform, *SIAM Journal on Scientific Computing*, 48(6): A3615–A3637, 2026. [[DOI]](https://doi.org/10.1137/25M1829000) [[arXiv]](https://arxiv.org/abs/2512.03733) [[PDF]](https://jingyuliumath.github.io/files/inudft3_1d.pdf)
 - Yingzhou Li and Jingyu Liu, Hierarchical matrices with Tucker blocks: Construction and forward evaluation, *Linear Algebra and its Applications*, 755: 216–251, 2027. [[DOI]](https://doi.org/10.1016/j.laa.2026.10.041) [[arXiv]](https://arxiv.org/abs/2508.05958) [[PDF]](https://jingyuliumath.github.io/files/hmtb.pdf)
 
 ## Conference Papers
